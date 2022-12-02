@@ -3,7 +3,7 @@ import random
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
-
+# comment
 bot = Bot(token=tg_bot_token)
 dp = Dispatcher(bot)
 
